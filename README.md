@@ -1,6 +1,6 @@
 # Horiseon-Website-Rework
 
-#Description
+## Description
 
 Horiseon Marketing Agency wanted their site in-line with accesibility standards so their agency is optimized on search engines. Along the way to increasing their standing in search engine results, I also took the opputinity to clean up some of the exisiting code for their homepage.
 
@@ -17,16 +17,16 @@ _______________________________________________________________________
 To Access the refactored homepage, simply click on the Git Pages link. 
 
 
-#Installation
+## Installation
 For users new to Github, follow the git clone process to copy the code into your local repository. 
 
-##Usage
+## Usage
 
 ![Alt text](./assets/images/Screenshot%202023-08-17%20at%209.16.55%20AM.png "Homepage Horiseon Marketing")
 ![Alt text](./assets/images/Screenshot%202023-08-17%20at%209.01.37%20AM.png "Homepage Horiseon Marketing")
 
-##Credit
+## Credit
 I worked on this project solo, but received help from my classmates Peter Richards and Jordan Adams. 
 
-##License 
+## License 
 This project is not licensed.
