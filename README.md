@@ -1,6 +1,6 @@
 # Horiseon-Website-Rework
 
-##Description
+#Description
 
 Horiseon Marketing Agency wanted their site in-line with accesibility standards so their agency is optimized on search engines. Along the way to increasing their standing in search engine results, I also took the opputinity to clean up some of the exisiting code for their homepage.
 
